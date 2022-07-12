@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Priyanshu Sharma.
-- 👀 I’m interested in Computer Programming. 
-- 🌱 I’m currently learning Cpp Language.
+- 👀 I’m interested in Computer Programming and Data Science. 
 - 📫 My mail Id is pskara39@gmail.com and Insta Handle is @kashyap.xxiv
 
 <!---
