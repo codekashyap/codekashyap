@@ -19,3 +19,10 @@
     <img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram&logoColor=black" alt="instagram Badge"/>
   </a>
 </div>
+
+## **GitHub Stats 📈:**
+![Github stats](https://github-readme-stats.vercel.app/api?username=codekashyap&theme=react&show_icons=true&count_private=true)
+
+
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=codekashyap&layout=compact)
+
