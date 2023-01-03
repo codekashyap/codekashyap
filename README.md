@@ -1,6 +1,6 @@
- 👋 Hi there, I'm Priyanshu Sharma.
-- I am junior at Institute of technology,Nirma University, persuing BTech in Electrical Engineering.
-- I am also persuing B.S in Data Science and Applications from IIT Madras.
+### Hi there ![ ](https://giphy.com/gifs/wave-morning-chill-Rjub7AIEIbXT0tzbr3) , I'm Priyanshu Sharma.
+- I am a junior at the Institute of Technology, Nirma University, pursuing BTech in Electrical Engineering.
+- I am also pursuing B.S. in Data Science and Applications from IIT Madras.
 - I have an interest in the fields of Data Science and Machine Learning. I also enjoy doing competitive programming.
 
 <!---
