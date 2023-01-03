@@ -20,9 +20,22 @@
   </a>
 </div>
 
+## **🛠️ Languages and Tools:**
+![image](https://user-images.githubusercontent.com/76911833/210438496-7cde6ef8-8f18-464e-be80-2caed35990cf.png) ![image](https://user-images.githubusercontent.com/76911833/210438663-86626c4d-7cab-49e4-9c33-fc5a691bc0d5.png) ![image](https://user-images.githubusercontent.com/76911833/210438741-2519f101-756e-4969-a7e5-4dd5e4d68cb1.png) ![image](https://user-images.githubusercontent.com/76911833/210438916-9d260a9e-fc95-49d3-9b45-553eb498673e.png) ![image](https://user-images.githubusercontent.com/76911833/210439383-95a579eb-ab1d-40b6-8b64-4c54481d3dfd.png)
+
+
+
+
+
+
+
+
 ## **GitHub Stats 📈:**
 ![Github stats](https://github-readme-stats.vercel.app/api?username=codekashyap&theme=react&show_icons=true&count_private=true)
 
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=codekashyap&layout=compact)
+
+
+
 
