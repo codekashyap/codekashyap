@@ -1,6 +1,7 @@
-- 👋 Hi, I’m Priyanshu Sharma.
-- 👀 I’m interested in Computer Programming and Data Science. 
-- 📫 My mail Id is pskara39@gmail.com and Insta Handle is @kashyap.xxiv
+ 👋 Hi there, I'm Priyanshu Sharma.
+- I am junior at Institute of technology,Nirma University, persuing BTech in Electrical Engineering.
+- I am also persuing B.S in Data Science and Applications from IIT Madras.
+- I have an interest in the fields of Data Science and Machine Learning. I also enjoy doing competitive programming.
 
 <!---
 codekashyap/codekashyap is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
