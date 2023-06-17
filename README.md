@@ -3,7 +3,7 @@
 </div>
 
 ## **Hello there, I'm Priyanshu Sharma**
-- I am a junior at the Institute of Technology, Nirma University 🎓, pursuing a BTech in electrical engineering.
+- I am a senior at the Institute of Technology, Nirma University 🎓, pursuing a BTech in electrical engineering.
 - I am also pursuing a BS in Data Science and Applications from IIT Madras 🎓.
 - I have an interest in the fields of data science and machine learning.
 
